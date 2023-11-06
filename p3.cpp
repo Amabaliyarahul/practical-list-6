@@ -12,7 +12,6 @@ int main()
         cout << "Failed to open the file." << endl;
         return 1;
     }
-
     char ch;
     int count_ch = 0;
     while (count.get(ch))
