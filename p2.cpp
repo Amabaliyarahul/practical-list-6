@@ -1,5 +1,6 @@
 /* AMBALIYA RAHUL */
 /*220130318104*/
+#include<iostream>
 #include <fstream>
 using namespace std;
 int main()
