@@ -1,1 +1,0 @@
-# practical-list-6
