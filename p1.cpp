@@ -6,7 +6,6 @@ using namespace std;
 int main()
 {
     ofstream outputFile("test.txt");
-
     if (!outputFile.is_open())
     {
         cerr << "Failed to open the file." << endl;
